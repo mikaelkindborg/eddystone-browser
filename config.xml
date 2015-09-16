@@ -12,7 +12,6 @@
         Mikael Kindborg
     </author>
     <content src="index.html" />
-    <gap:plugin name="cordova-plugin-whitelist" version="1" source="npm" />
     <gap:plugin name="cordova-plugin-eddystone" source="npm" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
